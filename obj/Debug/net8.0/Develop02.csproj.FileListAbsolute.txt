@@ -1,0 +1,15 @@
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/bin/Debug/net8.0/Develop02
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/bin/Debug/net8.0/Develop02.deps.json
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/bin/Debug/net8.0/Develop02.runtimeconfig.json
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/bin/Debug/net8.0/Develop02.dll
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/bin/Debug/net8.0/Develop02.pdb
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.AssemblyInfoInputs.cache
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.AssemblyInfo.cs
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.csproj.CoreCompileInputs.cache
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.sourcelink.json
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.dll
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/refint/Develop02.dll
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.pdb
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/Develop02.genruntimeconfig.cache
+/Users/jacksonchapman/cse_210/cse210-hw/prove/Develop02/obj/Debug/net8.0/ref/Develop02.dll
